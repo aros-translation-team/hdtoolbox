@@ -1,4 +1,4 @@
-## version $VER: hdtoolbox.catalog 1.1 (24.11.2008)
+## version $VER: hdtoolbox.catalog 2.0 (17.12.2020)
 ## codeset 2104
 ## language russian
 ;
@@ -9,10 +9,10 @@ WORD_AddEntry
 Добавить
 ;
 WORD_All
-Все
+Всё
 ;
 WORD_Automount
-Automount
+Автомонтируемый
 ;
 WORD_Bootable
 Загрузочный
@@ -24,7 +24,7 @@ WORD_Cancel
 Отмена
 ;
 WORD_Changed
-Изменен
+Правка
 ;
 WORD_Change_Type
 Изменить тип
@@ -102,7 +102,7 @@ WORD_MENU_Quit
 Выход
 ;
 MSG_ASK_SAVE
-Все данные на измененных разделах будут уничтожены!\n Вы уверены, что пора записать изменения таблицы разделов '%s' ?
+Все данные на изменённых разделах будут уничтожены!\n Вы уверены, что пора записать изменения таблицы разделов '%s' ?
 ; All Data on modified partitions will be destroyed!\nAre you sure to write changes of partition table '%s'?
 ;
 MSG_NO_MEMORY
@@ -132,4 +132,11 @@ MSG_WriteTableError
 MSG_CreateTableError
 Ошибка при создании таблицы разделов
 ; Error while creating partition table
+;
+WORD_MENU_Partition
+Партиция
+; Partition
+;
+WORD_MENU_CreateMountlist
+Создать mountlist...
 ;
