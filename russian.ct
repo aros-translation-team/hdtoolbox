@@ -3,7 +3,7 @@
 ## language russian
 ;
 WORD_Active
-Активный
+Активна
 ;
 WORD_AddEntry
 Добавить
@@ -12,10 +12,10 @@ WORD_All
 Всё
 ;
 WORD_Automount
-Автомонтируемый
+Автомонтируется
 ;
 WORD_Bootable
-Загрузочный
+Загружается
 ;
 WORD_BootPri
 Порядок загрузки
